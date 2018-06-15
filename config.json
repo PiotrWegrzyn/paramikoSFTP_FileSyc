@@ -1,0 +1,10 @@
+{
+  "local_folder": "C:\\Python\\testingSSH",
+  "remote_folder":"/home/stud/is2016/pwegrzyn/test",
+  "server_address":"149.156.111.10",
+  "port":22,
+  "username":"pwegrzyn",
+  "mode":"move_by_date",
+  "ignore":[".bmp"]
+}
+
